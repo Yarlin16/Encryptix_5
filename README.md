@@ -5,7 +5,7 @@
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques. Given the highly imbalanced nature of the dataset, special attention is paid to handling class imbalance while training the model.
 
 ## Dataset Overview
-The dataset used in this project is the [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud). It contains transactions made by credit cards in September 2013 by European cardholders. The dataset presents transactions that occurred over two days, with 492 frauds out of 284,807 transactions.
+The dataset used in this project is the [Kaggle Credit Card Fraud Detection dataset]([https://www.kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)). It contains transactions made by credit cards in September 2013 by European cardholders. The dataset presents transactions that occurred over two days, with 492 frauds out of 284,807 transactions.
 
 - **Number of Instances:** 284,807
 - **Number of Features:** 30
